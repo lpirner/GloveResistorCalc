@@ -53,7 +53,7 @@ public class Controller {
 
     public void CalcAll(){
 
-
+//test
         lenghtproMeander = Double.parseDouble(laengeTwin.getText());
         anzMeand = Double.parseDouble(anzmae.getText());
         sonstleange= Double.parseDouble(sonstLae.getText());
