@@ -13,7 +13,7 @@ public class Main extends Application {
         Parent root = FXMLLoader.load(getClass().getResource("MainScene.fxml"));
         primaryStage.setTitle("GloveResistor Calculator");
         primaryStage.setResizable(false);
-        primaryStage.setScene(new Scene(root, 1102, 570));
+        primaryStage.setScene(new Scene(root, 800, 550));
         primaryStage.show();
     }
 
