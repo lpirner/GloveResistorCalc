@@ -35,9 +35,9 @@
                   <Image url="@../images/mae.png" />
                </image>
             </ImageView>
-            <Button layoutX="12.0" layoutY="482.0" mnemonicParsing="false" onAction="#doEverything" prefHeight="54.0" prefWidth="403.0" style="-fx-background-color: #BCD2EE;" text="Calculate" textFill="#1b0000">
+            <Button layoutX="12.0" layoutY="482.0" mnemonicParsing="false" onAction="#doEverything" prefHeight="54.0" prefWidth="403.0" style="-fx-background-color: #43A047;" text="Calculate" textFill="#fcf8f8">
                <font>
-                  <Font name="System Bold" size="25.0" />
+                  <Font size="25.0" />
                </font>
             </Button>
             <Accordion layoutX="416.0" layoutY="75.0" />
